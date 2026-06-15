@@ -1,0 +1,2 @@
+# PGClockLite
+PasarGuard Subscription Template
