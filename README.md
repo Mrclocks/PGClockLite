@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Preview.jpeg" alt="PGClock Preview" width="900">
+  <img src="Preview.jpg" alt="PGClock Preview" width="900">
 </div>
 
 <h1 align="center">PGClockLite</h1>
